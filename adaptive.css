@@ -1,0 +1,55 @@
+
+@media only screen and (max-width: 1200px) {
+        /* Large devices, wide screens */
+}
+@media only screen and (max-width: 992px) {
+        /* Medium devices, desktops */		
+.header_container {margin:0px 0px 0px 0px; padding:10px 10px 10px 20px; min-height:66px;}							
+}
+
+@media only screen and (max-width: 768px) {
+        /* Small devices, tablets */	
+.main-block_image{top:-4px; left:0;}
+.menu_link{font-size:14px;}	
+.main-block_body{background-color:#FFFFFF; margin:-250px 20px 0px 20px;}
+.header_container {background-color:#FFFFFF; margin:0px 0px 0px 0px; padding:10px 10px 10px 20px; min-height:66px;}				   
+.form-control{margin:-33px 10px 0px 20px;}	
+.form-control input {width:98%;	}		
+.pineapple{display: none;}
+.footer_social_container{margin:45px 25px 0px 50px; padding: 0px 0px 20px 0px;}
+.form-control.error small{bottom:167px;left:20px;}
+.container-success{margin:240px -2px 0px 34px;}
+.main_success_title {font-size:24px; line-height: calc(34/24*100%);}
+.success_text{font-size:14px; width:85%;}
+}
+
+@media only screen and (max-width: 480px) {
+        /* Extra small devices, phones */	
+.menu_link{font-size:14px;}	
+.header_menu {margin:14px 0px 0px 100px;}
+.main-block_title{font-size:24px; padding:10px 0px 0px 0px; margin:21px 0px 0px 20px; line-height: calc(34/24*100%); }
+.menu_item:not(:last-child){margin:0px 20px 0px 0px;}	
+.checkbox_container{margin:21px 10px 0px 20px; width:85%; padding: 0px 50px 0px 41px;}
+.main-block_text{font-size:14px; margin:-5px 0px 0px 20px; width:85%;}
+input[type=email]{padding: 25px 0px 23px 10px;}		
+.form-control{margin:-33px 10px 0px 20px;}		
+.form-control input {width:98%;	}
+.Submit{margin:0px 10px 0px -49px;}		
+.main-block_body{background-color:#FFFFFF; margin:-275px 20px 0px 20px; padding: 1px 0px 1px 0px;}
+.pineapple{display: none;}
+.main-block_image{top:0px; left:-308px;}
+.header_container{background-color:#FFFFFF; margin:-3px 0px 0px 0px; padding:0px 10px 0px 20px; min-height:66px; width:100%;}
+.footer_social_container{margin:45px 25px 0px 50px; padding: 0px 0px 20px 0px;}
+.footer_social_container a{margin:0px 10px 0px 0px;}
+.form-control.error small{bottom:135px; left:20px;}
+/* <!---------------------- Success Page №2--------------------------------------------------------------------------> */
+.container-success{margin:240px -2px 0px 34px;}
+.main_success_title {font-size:24px; line-height: calc(34/24*100%);}
+.success_text{font-size:14px; width:85%;}
+}
+
+@media only screen and (max-width: 320px) {
+        /* Custom, iphone retina */
+}
+ 
+ 
